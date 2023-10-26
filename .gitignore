@@ -1,0 +1,24 @@
+my-mern-project/
+├── client/
+│   ├── node_modules/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   ├── package-lock.json
+│   └── README.md
+├── controllers/
+│   ├── authController.js
+│   ├── postController.js
+│   └── userController.js
+├── models/
+│   ├── Post.js
+│   └── User.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── postRoutes.js
+│   └── userRoutes.js
+├── .env
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── server.js
